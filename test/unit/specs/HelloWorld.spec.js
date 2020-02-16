@@ -25,6 +25,6 @@ describe('加法测试',()=>{
     expect(add(5,5)).toBe(10)
   })
   it('数字相加',()=>{
-    expect(add(0,1)).toBe(1)
+    expect(add(0,2)).toBe(2)
   })
 })
